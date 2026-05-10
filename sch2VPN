@@ -52,20 +52,9 @@ vless://77280cb4-583d-4e7c-9863-f6d6360ae99d@74.119.194.234:443?flow=xtls-rprx-v
 vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@151.241.216.78:443?flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&security=reality&sid=aabbccdd&sni=www.google.com&type=tcp#🇪🇸 Испания
 vless://07fd97f4-8501-4d7a-8a11-935f58d1e7a9@45.12.111.151:443?flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&security=reality&sid=0c80cc39&sni=store.steampowered.com&spx=/&type=tcp#🇨🇭 Швейцария
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🔑 | Все Shadowsocks://
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🔑 | Все Shadowsocks:// - ❌
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@31.57.56.135:51523#🇬🇧 Великобритания
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@185.191.118.33:51523#🇩🇪 Германия
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@lt.moktana.app:51523#🇱🇹 Литва
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@nl.moktana.app:51523#🇳🇱 Нидерланды
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@pl.moktana.app:51523#🇵🇱 Польша
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@ru.moktana.app:51523#🇷🇺 Россия
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@162.249.125.107:51523#🇷🇴 Румыния
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@216.227.161.43:51523#🇺🇸 США
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@85.192.48.87:51523#🇫🇮 Финляндия
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMW5NU21BcDJUZnZwc1FhNldVQ2RGbUYzb2RoZGVKSA==@se.moktana.app:51523#🇸🇪 Швеция
-
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🔑 | Все Hysteria:// и Hysteria2:// ❌
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🔑 | Все Hysteria:// и Hysteria2:// - ❌
 
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&encryption=none&security=reality&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&fp=chrome&sni=www.m.vk.ru&sid=9a694cfa8ebd15&spx=%2F#❌ | Соцсети/Игровые [Нету, скоро добавим]
 
@@ -73,16 +62,15 @@ vless://4de9bd4f-8d80-4637-8bdb-9e987c8a79bc@146.103.114.12:59001?type=tcp&encry
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#ЧС - ❌ [Скоро добавим]
 
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.28:52006?flow=xtls-rprx-vision&insecure=1&security=tls&sni=cl-ru-2.edgeflux.ru&type=tcp#🇦🇲 Армения: БС #1 [LTE/WiFi]
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.17:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-ru-1.edgeflux.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=cl-ru-1.edgeflux.ru",#🇦🇲 Армения: БС #2 [LTE/WiFi]
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.32:52006?allowInsecure=1&type=tcp&security=tls&flow=xtls-rprx-vision&sni=cl-ru-1.edgeflux.ru&host=cl-ru-1.edgeflux.ru#🇦🇲 Армения: БС #3 [LTE/WiFi]
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&allowInsecure=1#🇷🇺 БС #4
-vless://75807638-6f19-07d0-ae08-38492ee85c88@212.41.8.216:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&allowInsecure=1#🇷🇺 БС #5
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none",#🇷🇺 БС #6
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?type=tcp&headerType=none%22%2C&security=tls&encryption=none&sni=cluster-russia-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇷🇺 БС #7
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇷🇺 БС #8
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.12:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-ru-1.edgeflux.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=cl-ru-1.edgeflux.ru",#🇷🇺 БС #9
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.12:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-ru-1.edgeflux.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=cl-ru-1.edgeflux.ru%22#🇷🇺 БС #10
+vless://75807638-6f19-07d0-ae08-38492ee85c88@212.41.8.216:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&allowInsecure=1#🇷🇺 БС #1
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443/?type=ws&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019dee35-0199-dd7e-7323-a62ad725bba07&security=tls&sni=cdn.tracker.yandex.net&fp=chrome&allowInsecure=0#🇷🇺 БС #2
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=ws&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019dee35-0199-e195-7c29-9b28c0e62abc8&security=tls&sni=cdn.tracker.yandex.net&fp=chrome&allowInsecure=0%23%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%232%0A%0A#🇷🇺 БС #3
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=ws&host=cdn.lovecrafty.link&path=/stream/updates/b66b78d7/019dee35-0199-eeb7-718d-b21a426c1f478&security=tls&sni=cdn.tracker.yandex.net&fp=chrome&allowInsecure=0%23%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%233%0A%0A#🇷🇺 БС #4
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=ws&host=cdn.lovecrafty.link&path=/stream/updates/b66b78d7/019dee35-0199-f453-7895-942e25371cd6a&security=tls&sni=cdn.tracker.yandex.net&fp=chrome&allowInsecure=0%23%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%234%0A%0A#🇷🇺 БС #5
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=ws&host=cdn.lovecrafty.link&path=/stream/updates/de2fad11/019dee35-0199-e704-7d15-8013dc05a1f99&security=tls&sni=cdn.tracker.yandex.net&fp=chrome&allowInsecure=0%23%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%235%0A%0A#🇷🇺 БС #6
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=ws&host=cdn.lovecrafty.link&path=/stream/updates/e2fb9ff9/019dee35-0199-e92d-7526-8420fe39cbc30&security=tls&sni=cdn.tracker.yandex.net&fp=chrome&allowInsecure=0%23%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%236%0A%0A#🇷🇺 БС #7
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=ws&host=cdn.lovecrafty.link&path=/stream/updates/e2fb9ff9/019dee35-0199-e4d5-7730-821c8db9bcc31&security=tls&sni=cdn.tracker.yandex.net&fp=chrome&allowInsecure=0%23%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%237%0A%0A#🇷🇺 БС #8
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=ws&host=cdn.lovecrafty.link&path=/stream/updates/e2fb9ff9/019dee35-0199-f2be-736f-9e2bcee096f6b&security=tls&sni=cdn.tracker.yandex.net&fp=chrome&allowInsecure=0%23%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%238#🇷🇺 БС #9
 
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.20:52006?allowInsecure=1&type=tcp&security=tls&flow=xtls-rprx-vision&sni=cl-ru-1.edgeflux.ru&host=cl-ru-1.edgeflux.ru"#🇪🇺 БС #1 [Резерв/Запасной]
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.20:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cl-ru-1.edgeflux.ru&host=cl-ru-1.edgeflux.ru%2C&flow=xtls-rprx-vision&insecure=1#🇪🇺 БС #2 [Резерв/Запасной]

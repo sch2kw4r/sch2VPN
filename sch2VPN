@@ -7,7 +7,7 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🗨️ | Наш канал: @sch2VPN
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Поддержка/Владелец: @sch2kw4r
 
-vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=/&security=none&type=ws##🇪🇪 Эстония [САМЫЙ БЫСТРЫЙ И ЛУЧШИЙ]
+vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=/&security=none&type=ws#🇪🇪 Эстония [САМЫЙ БЫСТРЫЙ И ЛУЧШИЙ]
 vless://65aba112-8e57-4a65-8f13-ac87e982ca6b@45.92.1.122:54443?security=tls&type=tcp&headerType=none&path=&host=&sni=ads.x5.ru&fp=chrome&alpn=http%2F1.1&allowInsecure=1#🇳🇱 Нидерланды [САМЫЙ БЫСТРЫЙ И ЛУЧШИЙ]
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#⚒️ | Протоколы:
@@ -61,8 +61,7 @@ vless://65aba112-8e57-4a65-8f13-ac87e982ca6b@152.53.33.229:54443?security=tls&ty
 vless://4de9bd4f-8d80-4637-8bdb-9e987c8a79bc@146.103.114.12:59001?type=tcp&encryption=none&security=reality&pbk=alN88a4LJdVTW2JRU1jE-LYDAG2LhLEZoMSZRaCWWR4&fp=chrome&sni=www.m.vk.ru&sid=9629&spx=%2F#📄 | Обход БС - 🏳️ и ЧС - 🏴 👇
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#ЧС - ❌ [Скоро добавим]
-
-vless://75807638-6f19-07d0-ae08-38492ee85c88@212.41.8.216:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&allowInsecure=1#🇷🇺 БС #1
+vless://c0c44f11-7b43-49b2-8ae4-1ca204fc2d3a@scvpn.abrdns.com:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=random&host=&mode=auto&path=%2Fupdates&pbk=tvGzNJk808NCEaPNwY4nJVahLkdTHDOjCx238I5gphI&security=reality&sid=17b8d3df&sni=ads.x5.ru&spx=%2F7wjXRL2eM6ZD45v&type=xhttp&x_padding_bytes=100-1000#🇷🇺 БС #1
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443/?type=ws&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019dee35-0199-dd7e-7323-a62ad725bba07&security=tls&sni=cdn.tracker.yandex.net&fp=chrome&allowInsecure=0#🇷🇺 БС #2
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=ws&host=cdn.lovecrafty.link&path=/stream/updates/130cdea4/019dee35-0199-e195-7c29-9b28c0e62abc8&security=tls&sni=cdn.tracker.yandex.net&fp=chrome&allowInsecure=0%23%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%232%0A%0A#🇷🇺 БС #3
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=ws&host=cdn.lovecrafty.link&path=/stream/updates/b66b78d7/019dee35-0199-eeb7-718d-b21a426c1f478&security=tls&sni=cdn.tracker.yandex.net&fp=chrome&allowInsecure=0%23%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%233%0A%0A#🇷🇺 БС #4

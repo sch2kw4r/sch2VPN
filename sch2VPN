@@ -71,6 +71,7 @@ vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?type=tcp&
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Белые списки 👇
 
+vless://153dc4db-d68f-4bd2-8f66-bfc89fd4a1cf@158.160.90.212:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=2zAba7569dQmvrj7-dHd1iJ_POA2SpwDcbig4WBqaE8&sid=ef209e#🇷🇺 Белые списки | ⚡
 vless://65bc8227-48db-4993-9e9d-68394de672a1@185.242.19.250:443?mode=auto&path=/xhttppath&security=tls&sni=top2483982870.mwscdn.ru&type=xhttp#🏳️ Обход БС 1
 vless://65bc8227-48db-4993-9e9d-68394de672a1@185.242.19.250:443?mode=auto&path=/xhttppath&security=tls&sni=top3544328020.mwscdn.ru&type=xhttp#🏳️ Обход БС 2
 vless://65bc8227-48db-4993-9e9d-68394de672a1@185.242.19.249:443?mode=auto&path=/xhttppath&security=tls&sni=top2739020656.mwscdn.ru&type=xhttp#🏳️ Обход БС 3

@@ -7,31 +7,7 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🗨️ | Наш канал: @sch2VPN
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Поддержка/Владелец: @sch2kw4r
 
-vless://80742b50-480c-4e05-b39d-5af097192187@test.oak-finch.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇺 Авто-выбор страны
-vless://80742b50-480c-4e05-b39d-5af097192187@test.grey-lance.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇺 Белые списки | Авто
-vless://80742b50-480c-4e05-b39d-5af097192187@test.bear-grove.test-cdn-kkk.com:9443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=random#🇪🇺 Белые списки #2 | Авто
-vless://80742b50-480c-4e05-b39d-5af097192187@test.iron-field.test-cdn-kkk.com:9443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇺 Белые списки #3 | Авто
-
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#⚡ | Быстрые сервера 👇
-
-vless://80742b50-480c-4e05-b39d-5af097192187@test.red-blaze.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#Нидерланды 🇳🇱
-vless://80742b50-480c-4e05-b39d-5af097192187@test.rare-lance.test-cdn-kkk.com:50443?encryption=none&type=grpc&security=reality&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=826f6003&fp=qq&serviceName=ads.x5.ru#Нидерланды 🇳🇱
-vless://80742b50-480c-4e05-b39d-5af097192187@test.free-marsh.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#Турция 🇹🇷
-vless://80742b50-480c-4e05-b39d-5af097192187@test.mint-lance.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#США 🇺🇸
-vless://80742b50-480c-4e05-b39d-5af097192187@test.gold-pond.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=par.eu-ffast.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#Франция 🇫🇷
-vless://80742b50-480c-4e05-b39d-5af097192187@test.rare-lance.test-cdn-kkk.com:50443?encryption=none&type=grpc&security=reality&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=c5023bb2&fp=qq&serviceName=ads.x5.ru#Франция 🇫🇷
-vless://80742b50-480c-4e05-b39d-5af097192187@test.firm-tower.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lon.eu-ffast.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#Великобритания 🇬🇧
-vless://80742b50-480c-4e05-b39d-5af097192187@test.soft-blade.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#Казахстан 🇰🇿
-vless://80742b50-480c-4e05-b39d-5af097192187@test.rare-lance.test-cdn-kkk.com:50443?encryption=none&type=grpc&security=reality&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=8126804b&fp=qq&serviceName=ads.x5.ru#Германия 🇩🇪
-vless://80742b50-480c-4e05-b39d-5af097192187@test.vast-mesa.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#Швеция 🇸🇪
-vless://80742b50-480c-4e05-b39d-5af097192187@test.rare-lance.test-cdn-kkk.com:50443?encryption=none&type=grpc&security=reality&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=5ebf2a4d&fp=qq&serviceName=ads.x5.ru#Швеция 🇸🇪
-vless://80742b50-480c-4e05-b39d-5af097192187@test.wide-frost.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#Финляндия 🇫🇮
-vless://80742b50-480c-4e05-b39d-5af097192187@test.rare-lance.test-cdn-kkk.com:50443?encryption=none&type=grpc&security=reality&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=cac0547f&fp=qq&serviceName=ads.x5.ru#Финляндия 🇫🇮
-vless://80742b50-480c-4e05-b39d-5af097192187@test.raw-maple.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇪 Эстония
-vless://80742b50-480c-4e05-b39d-5af097192187@test.rare-lance.test-cdn-kkk.com:50443?encryption=none&type=grpc&security=reality&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=32be2c0a&fp=qq&serviceName=ads.x5.ru#🇪🇪 Эстония
-vless://80742b50-480c-4e05-b39d-5af097192187@test.bold-stone.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇵🇱 Польша
-vless://80742b50-480c-4e05-b39d-5af097192187@test.iron-coral.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#Россия 🇷🇺
-vless://80742b50-480c-4e05-b39d-5af097192187@test.rare-lance.test-cdn-kkk.com:50443?encryption=none&type=grpc&security=reality&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=52732cc8&fp=qq&serviceName=ads.x5.ru#Россия 🇷🇺
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🔑 | Основные ключи | VLESS:// 👇
 
@@ -90,17 +66,13 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?ed=2560&eh=Sec-Web
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Белые списки 👇
 
 vless://d3e2caa1-4977-412b-a75f-bfee5776759d@138.124.89.58:30448?encryption=none&security=reality&sni=www.apple.com&pbk=Vh5DjaAxddFRTfszGWkx7zkJI6Nm78_DSfbP8ze4wX8&sid=2666f386&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇳🇱 Нидерланды | ‹LTE/WiFi›
-vless://80742b50-480c-4e05-b39d-5af097192187@test.grey-lance.test-cdn-kkk.com:9443?encryption=none&type=xhttp&security=reality&sni=sun6-21.userapi.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq&mode=auto#🇩🇪 Германия | ‹Только WiFi›
-vless://80742b50-480c-4e05-b39d-5af097192187@test.pale-moose.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇺 БС #1
-vless://80742b50-480c-4e05-b39d-5af097192187@test.fast-helm.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇺 БС #2
-vless://80742b50-480c-4e05-b39d-5af097192187@test.fast-blade.test-cdn-kkk.com:10167?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇺 БС #3
-vless://80742b50-480c-4e05-b39d-5af097192187@test.rare-blade.test-cdn-kkk.com:9443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=random#🇪🇺 БС #5
-vless://80742b50-480c-4e05-b39d-5af097192187@test.red-ridge.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇺 БС #6
-vless://80742b50-480c-4e05-b39d-5af097192187@test.fox-marsh.test-cdn-kkk.com:9443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇺 БС #7
-vless://80742b50-480c-4e05-b39d-5af097192187@test.rich-crown.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇺 БС #8
-vless://80742b50-480c-4e05-b39d-5af097192187@test.vast-pond.test-cdn-kkk.com:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇺 БС #9
-vless://80742b50-480c-4e05-b39d-5af097192187@test.dry-moose.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇺 БС #10
-vless://80742b50-480c-4e05-b39d-5af097192187@test.rare-glen.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇺 БС #11
+vless://83d6b8fe-14d5-4e02-981a-56a405a79864@front-cdn1.ghostyconnect.org:443?encryption=none&type=ws&path=/api/v2/sse/6ac569f8&host=front-cdn1.ghostyconnect.org&security=tls&sni=front-cdn1.ghostyconnect.org&fp=safari&alpn=h2,http/1.1#📶 Мобильная сеть 1
+vless://83d6b8fe-14d5-4e02-981a-56a405a79864@84.201.139.167:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&fp=safari&pbk=DS_tpvY3kge_bFph2FtmTQaTi4ny4hTZ4ZHftH8A6SM#📶Мобильная сеть 2 (только LTE)
+vless://83d6b8fe-14d5-4e02-981a-56a405a79864@109.73.202.38:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=BTCsoecdUco3iNBRSVvM9d47jxK-hJ7tkr36DtFw1UU#📶 Мобильная сеть 3
+vless://83d6b8fe-14d5-4e02-981a-56a405a79864@51.250.13.134:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&fp=random&pbk=RsPL-gcO_vsH9SOQY5gP4xDdjpMNGiRamYgkZhmNDB0#📶Мобильная сеть 4 (только LTE)
+vless://83d6b8fe-14d5-4e02-981a-56a405a79864@158.160.54.130:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=safari&pbk=pL69tIcjOxR7GIHKInWPb4I8JgYXiCwlO0Hy6W_nOVs#📶 Мобильная сеть 5 (только LTE)
+vless://83d6b8fe-14d5-4e02-981a-56a405a79864@84.252.143.206:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&fp=random&pbk=jhBEhuFXVEmdeBwHX6bT-yGty6_KqRKDhQZli6sMbyI#📶 Мобильная сеть 6 (только LTE)
+vless://83d6b8fe-14d5-4e02-981a-56a405a79864@87.236.22.165:443?encryption=none&type=grpc&mode=gun&authority=87.236.22.165&security=reality&sni=ads.x5.ru&fp=safari&pbk=c-37qP52qpEWzt4Na3_MB8IeqrzuF2dbYGIyXPSgcSI#📶 Мобильная сеть 7
 
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❓ | Понравился наш VPN?

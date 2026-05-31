@@ -7,6 +7,9 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🗨️ | Наш канал: @sch2VPN
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Поддержка/Владелец: @sch2kw4r
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTlFjaWF0UFl5d3pNX01aMDNUeE9B@89.127.221.224:2443#🇪🇸 Испания | ‹Скорость ⏫, Безопасность ⏬›
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEYlF3SXdaODRlZlB0WTFOWjVISFJ3@185.139.230.178:1080#🇩🇪 Германия | ‹Скорость ⏫, Безопасность ⏬›
+
 vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@minecraft.twilightparadox.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=minecraft.twilightparadox.com&fp=firefox&pbk=zkyUy8Deg-OEnzgoSKCVQfadI3_Ls_vzUydpzT6CsUg&sid=ba26d0a9bc05c198#🇪🇪 Эстония | Таллин
 vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@api.extratechsolutions.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.extratechsolutions.com&fp=firefox&pbk=XV8DyVCja1LwXdGJGLLjwhztOVnkUvgLWxemT_j2hSk&sid=70811fc1b50e9e05&spx=/#🇫🇮 Финляндия | Хельсинки
 vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@ms-office.opior.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ms-office.opior.com&fp=firefox&pbk=bAsmfgKZYXYptO4f2eV622XRbnai3kcQvxLSGTebK2k&sid=6caf94f7f05077a7#🇫🇷 Франция | Париж
@@ -39,6 +42,7 @@ vless://1b2f5e04-82b5-4522-b3f7-c9d028dbb42c@87.120.196.18:443?encryption=none&t
 vless://1b2f5e04-82b5-4522-b3f7-c9d028dbb42c@144.31.243.61:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.ya.ru&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&fp=chrome#🇱🇹 Литва
 
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&encryption=none&security=reality&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&fp=chrome&sni=www.m.vk.ru&sid=9a694cfa8ebd15&spx=%2F#🤳/🎮 | Соцсети/Игровые:
+vless://1379aed6-0a11-4533-97ee-f7df8026510a@176.32.39.72:4443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=m.vk.ru&pbk=NCNqme8sDO4TA0jitmR9v0FE9ZaELiNV2pmrY13ZK3I&sid=355d395e&fp=qq#🇷🇺 Россия | ‹Youtube без рекламы›
 
 vless://4de9bd4f-8d80-4637-8bdb-9e987c8a79bc@146.103.114.12:59001?type=tcp&encryption=none&security=reality&pbk=alN88a4LJdVTW2JRU1jE-LYDAG2LhLEZoMSZRaCWWR4&fp=chrome&sni=www.m.vk.ru&sid=9629&spx=%2F#📄 | Обход БС - 🏳️ и ЧС - 🏴:
 

@@ -7,18 +7,36 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🗨️ | Наш канал: @sch2VPN
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Поддержка/Владелец: @sch2kw4r
 
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@sw.nnmm.me:443?security=tls&sni=sw.nnmm.me#🇪🇺 Автовыбор локации #1
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@nl.nnmm.me:443?security=tls&sni=nl.nnmm.me#🇪🇺 Автовыбор локации #2
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@ee1.nnmm.me:443?security=tls&sni=ee1.nnmm.me#🇪🇪 Эстония
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@de.nnmm.me:443?security=tls&sni=de.nnmm.me#🇩🇪 Германия
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@pl.nnmm.me:443?security=tls&sni=pl.nnmm.me#🇵🇱 Польша
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@fr.nnmm.me:443?security=tls&sni=fr.nnmm.me#🇫🇷 Франция | Резерв
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@nl8.nnmm.me:443?security=tls&sni=nl8.nnmm.me#🇳🇱 Нидерланды
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@uk1.nnmm.me:443?security=tls&sni=uk1.nnmm.me#🇬🇧 Лондон
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@fi.nnmm.me:443?security=tls&sni=fi.nnmm.me#🇫🇮 Финляндия
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@us.nnmm.me:443?security=tls&sni=us.nnmm.me#🇺🇸 США
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@ru1.nnmm.me:443?security=tls&sni=ru1.nnmm.me#🇷🇺 Россия
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@kz.nnmm.me:443?security=tls&sni=kz.nnmm.me#🇰🇿 Казахстан
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@minecraft.twilightparadox.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=minecraft.twilightparadox.com&fp=firefox&pbk=zkyUy8Deg-OEnzgoSKCVQfadI3_Ls_vzUydpzT6CsUg&sid=ba26d0a9bc05c198#🇪🇪 Эстония | Таллин
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@api.extratechsolutions.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.extratechsolutions.com&fp=firefox&pbk=XV8DyVCja1LwXdGJGLLjwhztOVnkUvgLWxemT_j2hSk&sid=70811fc1b50e9e05&spx=/#🇫🇮 Финляндия | Хельсинки
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@ms-office.opior.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ms-office.opior.com&fp=firefox&pbk=bAsmfgKZYXYptO4f2eV622XRbnai3kcQvxLSGTebK2k&sid=6caf94f7f05077a7#🇫🇷 Франция | Париж
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@api.botanicaltech.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.botanicaltech.com&fp=firefox&pbk=TFDQpvvpVBvgV4o9UMb7_kdCTn_u6oYB9TrBtTbqiSY&sid=d63ada0c72a18d8b&spx=/#🇩🇪 Германия | Оффенбах-ам-Майн
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@airport.thinairtech.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=airport.thinairtech.com&fp=firefox&pbk=mepO9Q9nbKjjdDgGLW_eqlFDuNrHtpEhUT7x03XgiXw&sid=299ad271ac32a1d2#🇱🇻 Латвия | Рига
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@vk.fintech-llc.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vk.fintech-llc.com&fp=firefox&pbk=eH2mqar0RO20tQdEOjZTaXS96FJv9S1OT7qlyE_YBlI&sid=65511f07f240c689&spx=/#🇳🇱 Нидерланды | Эйгелсховен
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@vk.cachingtech.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vk.cachingtech.com&fp=firefox&pbk=yk1VgHUKE7-oMeFrhyyFn6aLtedVP40h6abJWJJq8W4&sid=4f9b2b1a3c5d7e0f&spx=/#🇳🇱 Нидерланды | Эйгелсховен
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@api.dockl.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.dockl.com&fp=firefox&pbk=krArCjBlamNPPSImydWgBHWCLZG5jj16jGHAnlZmuzo&sid=8f9dd98853c79394#🇳🇱 Нидерланды | Амстердам
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@news-api.mooo.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=news-api.mooo.com&fp=firefox&pbk=K8jPB7UlNT3kqDVh6KUWUyhw6epdQAZ45IQskCdMzUI&sid=13c4da2b5e6f7081&spx=/#🇳🇱 Нидерланды | Эйгелсховен
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@med.scientol.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=med.scientol.com&fp=firefox&pbk=nQuQ1sJdImOgMTbBZqaM9XQIHM6cUGJv4i4GUH2jfS0&sid=08077a76caf94f7f#🇳🇱 Нидерланды | Дронтен
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@win.powershelltech.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=win.powershelltech.com&fp=firefox&pbk=vmjylfeWOL1q_W_WQ9doikN88tSdFqPO2k9g1bjJaSk&sid=a1b2c3d4e5f60789&spx=/#🇳🇱 Нидерланды | Эйгелсховен
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@db.diamondbsd.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=db.diamondbsd.com&fp=firefox&pbk=yx2Uk6XAY47b3_hfpdR6FUI4ax5xASeUGkh5NFkg3RU&sid=04b5a6f1e2d3c978&spx=/#🇵🇱 Польша | Варшава
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@oracle.fin-tech.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=oracle.fin-tech.com&fp=firefox&pbk=ykf7AWlcmRL3ouG5uv3HHAADs67HtaTbOkPIcvqm80I&sid=8f793949dd98853c#🇸🇪 Швеция | Стокгольм
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@synchronization.twilightparadox.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=synchronization.twilightparadox.com&fp=firefox&pbk=iDeeU75B2qSYOaUobbV9s4l4fSYazdsVnjBDSBHbCFA&sid=cd5ba2f1ed516fc8&spx=/#🇸🇪 Швеция | Стокгольм
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@sync.cachingtech.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sync.cachingtech.com&fp=firefox&pbk=K5x4qU9PEfQ3qh7weSUqEkaexZVmOMTMYKi9WuwS7BQ&sid=2ab7f95bc7a7f97a#🇺🇸 США | Секокус
+vless://39b5f752-9312-4a05-9b3b-a1ff44155eec@sync.wikilegia.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sync.wikilegia.com&fp=firefox&pbk=G4pdR-Y6SfzxTDtU89V6CMwp1x7MovY9Ax_ZnTcmnUw&sid=af15023a7f94f76c#🇬🇧 Великобритания | Ковентри
+
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.238.120.124#🇩🇪 Германия
+trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click&fp=chrome&type=tcp#🇫🇷 Франция | ‹Медленный›
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&sni=64.176.65.85&fp=chrome&type=tcp#🇵🇱 Польша
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.235.63.252#🇺🇸 США
+
+vless://1b2f5e04-82b5-4522-b3f7-c9d028dbb42c@2.26.112.220:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.ya.ru&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&fp=chrome#🇩🇪 Германия
+vless://1b2f5e04-82b5-4522-b3f7-c9d028dbb42c@2.26.114.181:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.ya.ru&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&fp=chrome#🇳🇱 Нидерланды
+vless://1b2f5e04-82b5-4522-b3f7-c9d028dbb42c@77.239.112.88:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.ya.ru&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&fp=chrome#🇳🇱 Нидерланды-2
+vless://1b2f5e04-82b5-4522-b3f7-c9d028dbb42c@185.223.168.75:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.ya.ru&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&fp=chrome#🇪🇪 Эстония
+vless://1b2f5e04-82b5-4522-b3f7-c9d028dbb42c@2.26.115.178:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.ya.ru&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&fp=chrome#🇫🇮 Финляндия
+vless://1b2f5e04-82b5-4522-b3f7-c9d028dbb42c@95.85.254.231:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.ya.ru&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&fp=chrome#🇵🇱 Польша
+vless://1b2f5e04-82b5-4522-b3f7-c9d028dbb42c@87.120.196.18:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.ya.ru&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&fp=chrome#🇸🇪 Швеция
+vless://1b2f5e04-82b5-4522-b3f7-c9d028dbb42c@144.31.243.61:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.ya.ru&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&fp=chrome#🇱🇹 Литва
 
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&encryption=none&security=reality&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&fp=chrome&sni=www.m.vk.ru&sid=9a694cfa8ebd15&spx=%2F#🤳/🎮 | Соцсети/Игровые:
 
@@ -31,13 +49,7 @@ vless://25263c14-6cb5-499b-b462-dd498deecfe7@de-on-demand.not-a-projects.xyz:475
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Белые списки 👇
 
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@90.156.218.58:443?security=tls&sni=zz1.tgnn.live#🇪🇺 Обход #1
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@213.219.212.12:443?security=tls&sni=zz0.tgnn.live#🇪🇺 Обход #2
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@zz24.tgnn.live:443?security=tls&sni=zz24.tgnn.live#🇪🇺 Обход #3
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@79.174.93.60:443?security=tls&sni=zz7.tgnn.live#🇪🇺 Обход #4
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@79.174.95.226:443?security=tls&sni=zz77.tgnn.live#🇪🇺 Обход #5
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@zz43.tgnn.live:443?security=tls&sni=zz43.tgnn.live#🇪🇺 Обход #6
-trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@46.8.209.223:443?security=tls&sni=zz.tgnn.live#🇪🇺 Обход #7
+
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❓ | Понравился наш VPN?
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❗ | Поделись нашим VPN с друзьями!

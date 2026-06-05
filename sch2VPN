@@ -6,6 +6,9 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Наш канал: @sch2VPN
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Поддержка/Владелец: @sch2kw4r
 
+vless://Fluffy_VPN-rteTDNPT@150.251.146.79:443?security=reality&sni=absolute-disaster.org&fp=firefox&type=tcp&flow=xtls-rprx-vision&pbk=FvSFcpxS_X7Mx337HUEh3Kh0PbNG24ANi51sR6BNXQg&sid=#🇳🇱 Нидерланды | ⚡
+
+
 vless://9bc4a008-bc91-4ec2-aa3d-589584511965@95.85.228.80:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nid1.hatvpn.org&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&sid=054602d818379876&fp=firefox#🇳🇱 Нидерланды 1
 vless://9bc4a008-bc91-4ec2-aa3d-589584511965@64.188.77.219:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nid.hatvpn.org&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&sid=054602d818379876&fp=firefox#🇳🇱 Нидерланды 2
 vless://9bc4a008-bc91-4ec2-aa3d-589584511965@95.85.228.212:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=est.hatvpn.org&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&sid=5a7216aec1371894&fp=firefox#🇪🇪 Эстония

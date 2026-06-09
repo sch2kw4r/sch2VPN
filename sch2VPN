@@ -16,30 +16,27 @@ vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@195.184.247.179:443?type=tcp&securi
 vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@150.241.101.199:443?type=tcp&security=reality&sni=google.com&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision&fp=firefox#🇪🇪 Эстония
 
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&encryption=none&security=reality&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&fp=chrome&sni=www.m.vk.ru&sid=9a694cfa8ebd15&spx=%2F#🤳/🎮 | Соцсети/Игровые:
-vless://0ff6b82e-040b-4d1e-9291-78841fd8c315@81.31.246.58:1443?encryption=none&type=grpc&security=reality&sni=eh.vk.com&pbk=Mibp8x0j-M2_ClthU3culbccffFNjmUtHgOSC9dk4CA&sid=6b4c9e1a3f0d7285&fp=chrome#🇷🇺 Россия | ‹Youtube без рекламы›
-vless://570dc354-2960-4091-8a8c-de09fe7f580f@37.252.11.92:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=WtdwHlJ5Lc1BNeqNwYzlD_2CSi2phWzkoIbjkIuNa1Y&sid=e4d7a1c89b2f3560#🇵🇱 Польша | ‹Roblox›
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@ru01.botovod.space:443?encryption=none&type=xhttp&path=/&mode=auto&security=tls&sni=ru01.botovod.space&fp=chrome&alpn=h2,http/1.1#🇷🇺 Россия | ‹Youtube без рекламы›
+vless://7065b58e-fd4e-4e0a-b171-25713ecb7c27@tg-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=I0fEW8_ADJkOVuU98orsk7R_XZljGRHnVNfirvFg4DU&sid=0123456789adcdea#🇸🇴 Telegram | ‹Звонки/СМС›
 
 vless://4de9bd4f-8d80-4637-8bdb-9e987c8a79bc@146.103.114.12:59001?type=tcp&encryption=none&security=reality&pbk=alN88a4LJdVTW2JRU1jE-LYDAG2LhLEZoMSZRaCWWR4&fp=chrome&sni=www.m.vk.ru&sid=9629&spx=%2F#📄 | Обход БС - 🏳️ и ЧС - 🏴 👇
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏴 | Черные списки 👇
 
-vless://b0276310-5e06-45b1-b2e5-1d74c429825d@fl-modx.webedg.net:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl-modx.webedg.net&fp=firefox&pbk=MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw&flow=xtls-rprx-vision#🇫🇮 Финляндия | ‹Заблокированные сайты›
-
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@103.119.19.179:8443?type=tcp&security=reality&pbk=vo6Xrwkla8OBS5O6lEinNvHXxW8DxCmb8HGHD86VzkU&fp=firefox&sni=www.google.com&sid=0e#🇨🇿 Чехия, Прага
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.130.133:80?mode=auto&path=/login&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=shangulin.global.ssl.fastly.net&type=xhttp#🇫🇷 Франция, Гравлин
-vless://InternetAzadRobot@151.101.128.223:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=%2Flogin&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🇫🇷 Франция, Гравлин
-vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?security=none&encryption=none&headerType=none&type=tcp#🇭🇰 Гонконг
-vless://91427003-38cb-473e-95f2-a4b500c91f7b@india.milas.click:443?type=grpc&headerType=none&security=reality&encryption=none&sni=india.milas.click&fp=random&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&spx=%2F#🇮🇳 Индия, Удджайн
-vless://91427003-38cb-473e-95f2-a4b500c91f7b@poland.milas.click:443?type=grpc&headerType=none&security=reality&encryption=none&sni=poland.milas.click&fp=random&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&spx=%2F#🇵🇱 Польша, Варшава
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=/Tignal&security=none&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#🇬🇧 Великобритания
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Белые списки 👇
 
 vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.17.183.0:2052?path=%2F%3Fed%3D2560&security=&encryption=none&host=tianshu.kevqwkt451.workers.dev&type=ws#🇪🇺 БС | ‹Только WiFi или Роуминг›
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#🇪🇺 БС | ‹Только LTE›
-vless://0ff6b82e-040b-4d1e-9291-78841fd8c315@186.246.7.121:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=LZkCQvHayOQTve2E0FnI4WqJHhCtwIaJnOovgGHSbh8&sid=6f4c9e1a3b0d7285&fp=chrome#🇷🇺 БС #1
-vless://0ff6b82e-040b-4d1e-9291-78841fd8c315@217.198.6.147:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn649.spliceflowtech.com&pbk=Nz3CWjT64ObxtpQdgmq5XpYmwKStIi1n9V-w88Y6uBg&sid=0c7e5a2d9f1b4863&fp=chrome#🇷🇺 БС #2
-vless://570dc354-2960-4091-8a8c-de09fe7f580f@tod.ggchel.online:8080?encryption=none&type=ws&path=/ws-piter&security=none#🇷🇺 БС #3
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.204:515?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=fa13#🇪🇪 Эстония ‹Белые списки›
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.217:515?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=63ff96#🇪🇪 Эстония ‹Белые списки›
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.204:520?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=63ff96#🇺🇸 США ‹Белые списки›
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.217:520?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=fe09c7eba9270a94#🇺🇸 США ‹Белые списки›
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.204:525?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=588448d9#🇪🇸 Испания ‹Белые списки›
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.217:525?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=279c694ce5#🇪🇸 Испания ‹Белые списки›
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.204:530?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=fe09c7eba9270a94#🇷🇺 Россия ‹Белые списки›
+vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.217:530?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=279c694ce5#🇷🇺 Россия ‹Белые списки›
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❓ | Понравился наш VPN?
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❗ | Поделись нашим VPN с друзьями!

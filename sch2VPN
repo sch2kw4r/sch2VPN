@@ -139,7 +139,11 @@ vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=
 
 vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.17.183.0:2052?path=%2F%3Fed%3D2560&security=&encryption=none&host=tianshu.kevqwkt451.workers.dev&type=ws#🇪🇺 БС | ‹Только WiFi или Роуминг›
 
-vless://4a671c83-ecce-4356-8d9b-f679be93ad0b@8-node-midas.com:443?encryption=none&security=reality&sni=amd.com&fp=firefox&pbk=imiuPhoSx5whN6nFNssg1kvLOUNdJSS7aShm78VRBUo&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#🇸🇪 Швеция | ‹LTE/WiFi›
+vless://4075d9b3-39ff-48dd-a23f-a95ec76deef6@node2.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=66c17371&sni=max.ru&type=tcp#🏳️ БС | ‹Автоматический›
+vless://4075d9b3-39ff-48dd-a23f-a95ec76deef6@node6.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=fb916778d4&sni=max.ru&type=tcp#⬜ БС #1
+vless://4075d9b3-39ff-48dd-a23f-a95ec76deef6@node5.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=2533f2fb6230&sni=max.ru&type=tcp#⬜ БС #2
+vless://4075d9b3-39ff-48dd-a23f-a95ec76deef6@node4.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=4f61d0728e062b&sni=max.ru&type=tcp#⬜ БС #3
+vless://4075d9b3-39ff-48dd-a23f-a95ec76deef6@node3.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=2533f2fb6230&sni=max.ru&type=tcp#⬜ БС #4
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❓ | Понравился наш VPN?
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❗ | Поделись нашим VPN с друзьями!

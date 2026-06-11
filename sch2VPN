@@ -6,17 +6,10 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Наш канал: @sch2VPN
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Поддержка/Владелец: @sch2kw4r
 
-vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@195.184.247.170:443?type=tcp&security=reality&sni=google.com&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision&fp=firefox#🇫🇮 Финляндия 
-vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@85.155.98.192:443?type=tcp&security=reality&sni=google.com&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision&fp=firefox#🇳🇱 Нидерланды
-vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@195.184.247.178:443?type=tcp&security=reality&sni=google.com&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision&fp=firefox#🇳🇴 Норвегия
-vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@85.155.98.193:443?type=tcp&security=reality&sni=google.com&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision&fp=firefox#🇬🇧 Великобритания
-vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@130.12.242.79:443?type=tcp&security=reality&sni=google.com&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision&fp=firefox#🇫🇷 Франция
-vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@103.109.234.138:443?type=tcp&security=reality&sni=google.com&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision&fp=firefox#🇩🇪 Германия
-vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@195.184.247.179:443?type=tcp&security=reality&sni=google.com&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision&fp=firefox#🇵🇱 Польша
-vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@150.241.101.199:443?type=tcp&security=reality&sni=google.com&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision&fp=firefox#🇪🇪 Эстония
+vless://0e074e87-fc9c-4431-8b36-0d3151d34937@sport.proektblog.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sport.proektblog.space&fp=firefox&pbk=bqYxE-9riLR9FjcPvg6GuvV0Cq1IvI8IDllUvT3FBFs&sid=9e323f5e1048b9c4&type=tcp#🇩🇪 Германия | ‹Быстрая/Запасная›
 
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&encryption=none&security=reality&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&fp=chrome&sni=www.m.vk.ru&sid=9a694cfa8ebd15&spx=%2F#🤳/🎮 | Соцсети/Игровые:
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@ru01.botovod.space:443?encryption=none&type=xhttp&path=/&mode=auto&security=tls&sni=ru01.botovod.space&fp=chrome&alpn=h2,http/1.1#🇷🇺 Россия | ‹Youtube без рекламы›
+
 vless://7065b58e-fd4e-4e0a-b171-25713ecb7c27@tg-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=I0fEW8_ADJkOVuU98orsk7R_XZljGRHnVNfirvFg4DU&sid=0123456789adcdea#🇸🇴 Telegram | ‹Звонки/СМС›
 
 vless://4de9bd4f-8d80-4637-8bdb-9e987c8a79bc@146.103.114.12:59001?type=tcp&encryption=none&security=reality&pbk=alN88a4LJdVTW2JRU1jE-LYDAG2LhLEZoMSZRaCWWR4&fp=chrome&sni=www.m.vk.ru&sid=9629&spx=%2F#📄 | Обход БС - 🏳️ и ЧС - 🏴 👇
@@ -28,15 +21,8 @@ vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=/Ti
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Белые списки 👇
 
 vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.17.183.0:2052?path=%2F%3Fed%3D2560&security=&encryption=none&host=tianshu.kevqwkt451.workers.dev&type=ws#🇪🇺 БС | ‹Только WiFi или Роуминг›
-vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#🇪🇺 БС | ‹Только LTE›
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.204:515?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=fa13#🇪🇪 Эстония ‹Белые списки›
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.217:515?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=63ff96#🇪🇪 Эстония ‹Белые списки›
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.204:520?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=63ff96#🇺🇸 США ‹Белые списки›
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.217:520?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=fe09c7eba9270a94#🇺🇸 США ‹Белые списки›
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.204:525?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=588448d9#🇪🇸 Испания ‹Белые списки›
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.217:525?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=279c694ce5#🇪🇸 Испания ‹Белые списки›
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.204:530?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=fe09c7eba9270a94#🇷🇺 Россия ‹Белые списки›
-vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@185.130.115.217:530?encryption=none&type=xhttp&path=/api/ads&mode=auto&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Ki5cLtYl3SqC-on306jRNRtr-saBbE4ntETcFxXjPSM&sid=279c694ce5#🇷🇺 Россия ‹Белые списки›
+
+vless://4a671c83-ecce-4356-8d9b-f679be93ad0b@8-node-midas.com:443?encryption=none&security=reality&sni=amd.com&fp=firefox&pbk=imiuPhoSx5whN6nFNssg1kvLOUNdJSS7aShm78VRBUo&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#🇸🇪 Швеция | ‹LTE/WiFi›
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❓ | Понравился наш VPN?
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❗ | Поделись нашим VPN с друзьями!

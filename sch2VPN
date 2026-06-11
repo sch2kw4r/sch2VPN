@@ -8,6 +8,12 @@ vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=
 
 vless://0e074e87-fc9c-4431-8b36-0d3151d34937@sport.proektblog.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sport.proektblog.space&fp=firefox&pbk=bqYxE-9riLR9FjcPvg6GuvV0Cq1IvI8IDllUvT3FBFs&sid=9e323f5e1048b9c4&type=tcp#🇩🇪 Германия | ‹Быстрая/Запасная›
 
+vless://be59e17b-2afa-49f7-b15b-7c6a95f0d062@109.107.190.104:52315?path=%2F&security=&encryption=none&type=ws#🇫🇮 Финляндия
+vless://be59e17b-2afa-49f7-b15b-7c6a95f0d062@38.180.217.154:52315?path=%2F&security=&encryption=none&type=ws#🇵🇱 Польша
+vless://be59e17b-2afa-49f7-b15b-7c6a95f0d062@91.184.242.118:52315?path=%2F&security=&encryption=none&type=ws#🇳🇱 Нидерланды
+vless://be59e17b-2afa-49f7-b15b-7c6a95f0d062@5.175.249.199:52315?path=%2F&security=&encryption=none&type=ws#🇩🇪 Германия
+vless://be59e17b-2afa-49f7-b15b-7c6a95f0d062@38.180.216.63:52315?path=%2F&security=&encryption=none&type=ws#🇪🇪 Эстония
+
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&encryption=none&security=reality&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&fp=chrome&sni=www.m.vk.ru&sid=9a694cfa8ebd15&spx=%2F#🤳/🎮 | Соцсети/Игровые:
 
 vless://7065b58e-fd4e-4e0a-b171-25713ecb7c27@tg-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=I0fEW8_ADJkOVuU98orsk7R_XZljGRHnVNfirvFg4DU&sid=0123456789adcdea#🇸🇴 Telegram | ‹Звонки/СМС›

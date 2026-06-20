@@ -6,6 +6,14 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Наш канал: @sch2VPN
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Поддержка/Владелец: @sch2kw4r
 
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Мои сервера 👇
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@vpn.oplatasite.ru:8443?security=tls&type=tcp&headerType=none&path=&host=&sni=vpn.oplatasite.ru&fp=edge#🇩🇪 Германия
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@fin.oplatasite.ru:8443?security=tls&type=tcp&headerType=none&path=&host=&sni=vpn.oplatasite.ru&fp=edge#🇫🇮 Финляндия
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?security=tls&type=tcp&headerType=none&path=&host=&sni=vpn.oplatasite.ru&fp=edge#🇸🇪 Швеция)
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@ru.oplatasite.ru:8443?security=tls&type=tcp&headerType=none&path=&host=&sni=vpn.oplatasite.ru&fp=edge#🇷🇺 Россия
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@nl.oplatasite.ru:8443?security=tls&type=tcp&headerType=none&path=&host=&sni=vpn.oplatasite.ru&fp=edge#🇳🇱 Нидерланды
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@ya-msk.graniteukr.com:20443?security=reality&type=tcp&headerType=none&path=&host=&sni=microsoft.com&fp=chrome&pbk=qeQag3kc_ExLMtWXbClmxHFQWsIa3GxfV_Bgu2LM2x0&sid=0011c3699faa2556#🇷🇺 LTE | Белый список
+
 vless://85d509cd-e641-443a-b227-ddc765adeb2d@217.179.221.82:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ve.cishosts.org&pbk=W7zjZJiEbAN6b-KkXWtk5dJ513BFDeKMSxgdiCUOWBo&sid=a1ab5a56bcca&fp=chrome#🇬🇧 Великобритания
 trojan://a7J9BMDPu1wuDTJ-cZoKBqvoPT9Uc7fL@fr.cishosts.org:443?security=tls&sni=fr.cishosts.org#🇫🇷 Франция
 vless://85d509cd-e641-443a-b227-ddc765adeb2d@ger.cishosts.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇩🇪 Германия

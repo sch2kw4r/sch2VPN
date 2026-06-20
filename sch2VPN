@@ -6,35 +6,27 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Наш канал: @sch2VPN
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Поддержка/Владелец: @sch2kw4r
 
-vless://286df6ea-6abf-4fda-bd8d-7761ea83a410@nl1.gamestreamcloud.org:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.microsoft.com&fp=firefox&pbk=eg5xaY7d1j9n8jbm5Nh6QFWIuLdiPucAavGGFV5U7lU&sid=516353fbfcdcddca#🇳🇱 Основной режим | ⚡️
-
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@uk.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=uk.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=4755f5d76eb68ffe&fp=firefox#🇬🇧 Великобритания #1
-vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@ru-213.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq#🇬🇧 Великобритания #2
-vless://2e071bd8-9a74-4516-9b96-067ab2bb4c3d@ru-213.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq#🇬🇧 Великобритания #3
-vless://51af2ae4-b8db-4026-8d82-7801f3cbd3c3@ru-213.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq#🇬🇧 Великобритания #4
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@ru-84.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=LHcascaxOxugVSALgsYx46nB-vuhT7ANOneu0xb6SzQ&sid=3b25133dd9e5c23f&fp=qq#🇬🇧 Великобритания #5
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@nl.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=25d69b9d530a4279&fp=firefox#🇳🇱 Нидерланды
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@de.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=a0321aad8db9924f&fp=firefox#🇩🇪 Германия
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=4755f5d76eb68ffe&fp=firefox#🇸🇪 Швеция
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@ru-dock.monkeyisland.space:443?encryption=none&type=xhttp&security=reality&sni=ru.monkeyisland.space&pbk=1rZ_-S-koa2KyC4Vy2i2MxI7MbE-yt3S7RR4923W7mQ&sid=ba2713d71c7917d4&fp=firefox&path=/api/v1/data&mode=auto#🇷🇺 Россия
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@it.monkora.org:443?encryption=none&type=tcp&security=reality&sni=it.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#🇮🇹 Италия
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@pl.monkora.org:443?encryption=none&type=tcp&security=reality&sni=pl.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#🇵🇱 Польша
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@es.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=es.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=83e9f5b24040c5f7&fp=firefox#🇪🇸 Испания
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@fi.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#🇫🇮 Финляндия
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@us.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=us.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=ecca56e9a9963ed7&fp=firefox#🇺🇸 США
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@kz.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=kz.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2ce837f65ba41351&fp=firefox#🇰🇿 Казахстан
-vless://7e45c956-0f20-0008-852d-fcfd6f418ba7@at.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=at.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#🇦🇹 Австрия
-vless://7e45c956-0f20-0004-852d-fcfd6f418ba7@fr.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fr.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=49f9a88c8305734f&fp=firefox#🇫🇷 Франция
-vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@lv.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lv.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=0dd15ad462aad7fc&fp=firefox#🇱🇻 Латвия
-
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@217.179.221.82:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ve.cishosts.org&pbk=W7zjZJiEbAN6b-KkXWtk5dJ513BFDeKMSxgdiCUOWBo&sid=a1ab5a56bcca&fp=chrome#🇬🇧 Великобритания
+trojan://a7J9BMDPu1wuDTJ-cZoKBqvoPT9Uc7fL@fr.cishosts.org:443?security=tls&sni=fr.cishosts.org#🇫🇷 Франция
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@ger.cishosts.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇩🇪 Германия
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@94.183.254.246:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇳🇱 Нидерланды
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@2.27.23.155:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇸🇪 Швеция
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@2.27.12.173:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇱🇻 Латвия
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@178.17.62.76:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇨🇭 Швейцария
 
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&encryption=none&security=reality&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&fp=chrome&sni=www.m.vk.ru&sid=9a694cfa8ebd15&spx=%2F#🤳/🎮 | Соцсети/Игровые:
 
 vless://7065b58e-fd4e-4e0a-b171-25713ecb7c27@tg-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=I0fEW8_ADJkOVuU98orsk7R_XZljGRHnVNfirvFg4DU&sid=0123456789adcdea#🇸🇴 Telegram | ‹Звонки/СМС›
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@45.146.166.249:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=github.com&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&fp=chrome#🇷🇺 YouTube без рекламы
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Белые списки 👇
 
-vless://286df6ea-6abf-4fda-bd8d-7761ea83a410@nl1re.gamestreamcloud.org:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=libreview.ru&fp=firefox&pbk=3CJjYPoZD_TN1EdJXwdu49ZK6-iIBRemJeXX_B2y6SA&sid=741c410b9d7db070#🇷🇺 Запасной (Обход) | 🛡 Защита
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@217.16.18.174:5443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&fp=chrome#🇷🇺 1. LTE | Все операторы
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@217.16.18.174:6443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&fp=chrome#🇵🇱 2. LTE | Все операторы
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@185.141.227.118:6443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&fp=qq#🇩🇪 3. LTE | Все операторы
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@46.8.208.30:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&fp=qq#🇩🇪 4. LTE | Все операторы
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@46.8.209.204:6443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&fp=qq#🇩🇪 5. LTE | Все операторы
+
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❓ | Понравился наш VPN?
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❗ | Поделись нашим VPN с друзьями!

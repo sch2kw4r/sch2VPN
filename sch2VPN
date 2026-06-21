@@ -17,37 +17,29 @@ vless://f119bbaf-68ec-4d88-870c-e4d4cb92868b@153.80.249.192:443?encryption=none&
 vless://f119bbaf-68ec-4d88-870c-e4d4cb92868b@195.2.81.39:443?encryption=none&security=reality&sni=ru-agent-06.rita-cloud.com&fp=firefox&pbk=0azLTkBAL9jSMaDio8wlyeDW9rglwOgvZRv_pwaQMC0&sid=55ca6ae3cc8075da&type=tcp&flow=xtls-rprx-vision#🇷🇺 Сарма - Россия 
 vless://f119bbaf-68ec-4d88-870c-e4d4cb92868b@31.76.31.68:443?encryption=none&security=reality&sni=iris-08.rita-cloud.com&fp=firefox&pbk=dYj8Vnll5sRJtiYUNt-dgnaGIqIFTWyBmlrww5ylxi4&sid=8bd343f20c2a4d89&type=tcp&flow=xtls-rprx-vision#🇫🇮 Этезий - Финляндия 
 vless://f119bbaf-68ec-4d88-870c-e4d4cb92868b@5.231.223.95:443?encryption=none&security=reality&sni=iris-06.rita-cloud.com&fp=firefox&pbk=i73ZFO8gi69rbVO2Tqxs4Hc5X53XqLakhEb-1MIM3js&sid=6a6e9633fef62811&type=tcp&flow=xtls-rprx-vision#🇩🇪 Памперо - Германия 
-#
-
-vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@vpn.oplatasite.ru:8443?security=tls&type=tcp&headerType=none&path=&host=&sni=vpn.oplatasite.ru&fp=edge#🇩🇪 Германия
-vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?security=tls&type=tcp&headerType=none&path=&host=&sni=vpn.oplatasite.ru&fp=edge#🇸🇪 Швеция
-vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@ru.oplatasite.ru:8443?security=tls&type=tcp&headerType=none&path=&host=&sni=vpn.oplatasite.ru&fp=edge#🇷🇺 Россия
-vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@nl.oplatasite.ru:8443?security=tls&type=tcp&headerType=none&path=&host=&sni=vpn.oplatasite.ru&fp=edge#🇳🇱 Нидерланды
-vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@ya-msk.graniteukr.com:20443?security=reality&type=tcp&headerType=none&path=&host=&sni=www.microsoft.com&fp=chrome&pbk=qeQag3kc_ExLMtWXbClmxHFQWsIa3GxfV_Bgu2LM2x0&sid=0011c3699faa2556#--- Белый список ---
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Основные сервера 👇
 
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@217.179.221.82:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ve.cishosts.org&pbk=W7zjZJiEbAN6b-KkXWtk5dJ513BFDeKMSxgdiCUOWBo&sid=a1ab5a56bcca&fp=chrome#🇬🇧 Великобритания
-trojan://a7J9BMDPu1wuDTJ-cZoKBqvoPT9Uc7fL@fr.cishosts.org:443?security=tls&sni=fr.cishosts.org#🇫🇷 Франция
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@ger.cishosts.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇩🇪 Германия
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@94.183.254.246:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇳🇱 Нидерланды
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@2.27.23.155:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇸🇪 Швеция
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@2.27.12.173:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇱🇻 Латвия
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@178.17.62.76:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇨🇭 Швейцария
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@fi.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=d7b0dab7f95c437d&fp=chrome#🇫🇮 Финляндия
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@swiss.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=swiss.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=c6ff7424cb12c5ed&fp=chrome#🇨🇭 Швейцария
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@fr.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fr.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=c6ff7424cb12c5ed&fp=chrome#🇫🇷 Франция
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@tr.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tr.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=c324fdcf18f3390e&fp=chrome#🇹🇷 Турция
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@nl.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=773353fbea287c00&fp=chrome#🇳🇱 Нидерланды
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@bg.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=bg.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=9b8c895dde4803ed&fp=chrome#🇧🇬 Болгария
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@us.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=us.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=20f690531579cc72&fp=chrome#🇺🇸 США
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@ee.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ee.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=a08f46e4b03d9dd3&fp=chrome#🇪🇪 Эстония
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@gateru.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=gateru.janusgate.org&pbk=Zkjmoy79UuCGCS5_4fMfhv0lXDvgBjUTT7jCdQoWdQQ&sid=2ad4123458ff3fe5&fp=qq#🇷🇺 Россия
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@fr2.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fr2.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=98c637e074b03225&fp=chrome#🇫🇷 Франция 2
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@nl2.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl2.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=76dc11867a5c907a&fp=chrome#🇳🇱 Нидерланды | Резерв
+vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@gateway.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=gateway.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=517c4ef7fb26746b&fp=chrome#🇫🇷 Франция | Резерв
 
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&encryption=none&security=reality&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&fp=chrome&sni=www.m.vk.ru&sid=9a694cfa8ebd15&spx=%2F#🤳/🎮 | Соцсети/Игровые:
 
 vless://7065b58e-fd4e-4e0a-b171-25713ecb7c27@tg-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=I0fEW8_ADJkOVuU98orsk7R_XZljGRHnVNfirvFg4DU&sid=0123456789adcdea#🇸🇴 Telegram | ‹Звонки/СМС›
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@45.146.166.249:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=github.com&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&fp=chrome#🇷🇺 YouTube без рекламы
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Белые списки 👇
 
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@217.16.18.174:5443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&fp=chrome#🇷🇺 1. LTE | Все операторы
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@217.16.18.174:6443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&fp=chrome#🇵🇱 2. LTE | Все операторы
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@185.141.227.118:6443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&fp=qq#🇩🇪 3. LTE | Все операторы
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@46.8.208.30:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&fp=qq#🇩🇪 4. LTE | Все операторы
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@46.8.209.204:6443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&fp=qq#🇩🇪 5. LTE | Все операторы
-
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Пока нету, скоро добавим
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❓ | Понравился наш VPN?
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❗ | Поделись нашим VPN с друзьями!

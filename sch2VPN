@@ -20,6 +20,16 @@ vless://f119bbaf-68ec-4d88-870c-e4d4cb92868b@5.231.223.95:443?encryption=none&se
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Основные сервера 👇
 
+vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@germnode.dostupnet.ru:9443?type=tcp&security=reality&fp=firefox&pbk=ydtP6Nv3EqKvbnCYoozfIk5q7ihoNWQsdd8UPqGFu2M&sni=germnode.dostupnet.ru&sid=ffaa1a2421f17932&flow=xtls-rprx-vision#🇩🇪 Германия
+vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@usanode.dostupnet.ru:9443?type=tcp&security=reality&fp=firefox&pbk=ge0f9vA5DqMbVVJZVXqssr_qDrKVz7GEIvngsdedIj4&sni=usanode.dostupnet.ru&sid=879f01a4ae1d324e&flow=xtls-rprx-vision#🇺🇸 США 
+hysteria2://ebcb836a-ab7a-424f-a07c-aba25c70da69@usanode.dostupnet.ru:10100?insecure=0&sni=usanode.dostupnet.ru&alpn=h3&fp=chrome#🇺🇸 США 
+hysteria2://ebcb836a-ab7a-424f-a07c-aba25c70da69@nlnode.dostupnet.ru:10100?insecure=0&sni=nlnode.dostupnet.ru&alpn=h3&fp=chrome#🇳🇱 Нидерланды 
+hysteria2://ebcb836a-ab7a-424f-a07c-aba25c70da69@finnode.dostupnet.ru:10100?insecure=0&sni=finnode.dostupnet.ru&alpn=h3&fp=chrome#🇫🇮 Финляндия 
+trojan://Lg-BbZtsZ22VjvZPTsZbacbYA25pP-TF@swnode.dostupnet.ru:10001?security=tls&fp=firefox&sni=swnode.dostupnet.ru&alpn=h2%2Chttp%2F1.1#🇸🇪 Швеция 
+trojan://Lg-BbZtsZ22VjvZPTsZbacbYA25pP-TF@estoninode.dostupnet.ru:443?security=tls&fp=firefox&sni=estoninode.dostupnet.ru&alpn=h2%2Chttp%2F1.1#🇪🇪 Эстония 
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Основные страны #2 👇
+
 vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@fi.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=d7b0dab7f95c437d&fp=chrome#🇫🇮 Финляндия
 vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@swiss.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=swiss.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=c6ff7424cb12c5ed&fp=chrome#🇨🇭 Швейцария
 vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@fr.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fr.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=c6ff7424cb12c5ed&fp=chrome#🇫🇷 Франция
@@ -33,9 +43,22 @@ vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@fr2.janusgate.org:443?encryption=no
 vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@nl2.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl2.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=76dc11867a5c907a&fp=chrome#🇳🇱 Нидерланды | Резерв
 vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@gateway.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=gateway.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=517c4ef7fb26746b&fp=chrome#🇫🇷 Франция | Резерв
 
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Основные страны #3 👇
+
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ams-01.gni-daed.ru:443/?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ams-01.gni-daed.ru&fp=firefox&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4#🇳🇱 Нидерланды
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ams-01.gni-daed.ru:443?encryption=none&type=xhttp&path=/&mode=auto&extra={"xmux":{"maxConcurrency":"8-16","maxConnections":0,"hKeepAlivePeriod":25,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"}}&security=reality&sni=ams-01.gni-daed.ru&fp=firefox&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&sid=a8389289e18af5f4#🇳🇱 Нидерланды / Резерв
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ams-02.gni-daed.ru:443?encryption=none&type=xhttp&path=/&host=ams-02.gni-daed.ru&mode=auto&extra={"xmux":{"maxConcurrency":"8-16","maxConnections":0,"hKeepAlivePeriod":25,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"}}&security=reality&sni=ams-02.gni-daed.ru&fp=firefox&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&sid=a8389289e18af5f4#🇳🇱 Нидерланды 2 / Резерв
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@pol-01.gni-daed.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pol-01.gni-daed.ru&fp=firefox&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4#🇵🇱 Польша
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@de-01.gni-daed.ru:443?encryption=none&type=xhttp&path=/&mode=auto&extra={"xmux":{"maxConcurrency":"8-16","maxConnections":0,"hKeepAlivePeriod":25,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"}}&security=reality&sni=de-01.gni-daed.ru&fp=firefox&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&sid=a8389289e18af5f4#🇩🇪 Германия / Резерв
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@swe-01.gni-daed.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=swe-01.gni-daed.ru&fp=firefox&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4#🇸🇪 Швеция
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@swe-01.gni-daed.ru:443?encryption=none&type=xhttp&path=/&mode=auto&extra={"xmux":{"maxConcurrency":"8-16","maxConnections":0,"hKeepAlivePeriod":25,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"}}&security=reality&sni=swe-01.gni-daed.ru&fp=firefox&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&sid=a8389289e18af5f4#🇸🇪 Швеция / Резерв
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@de-01.gni-daed.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de-01.gni-daed.ru&fp=firefox&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4#🇩🇪 Германия
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@de-01.gni-daed.ru:443/?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de-01.gni-daed.ru&fp=firefox&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4#🇩🇪 Германия
+
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&encryption=none&security=reality&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&fp=chrome&sni=www.m.vk.ru&sid=9a694cfa8ebd15&spx=%2F#🤳/🎮 | Соцсети/Игровые:
 
 vless://7065b58e-fd4e-4e0a-b171-25713ecb7c27@tg-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=qq&pbk=I0fEW8_ADJkOVuU98orsk7R_XZljGRHnVNfirvFg4DU&sid=0123456789adcdea#🇸🇴 Telegram | ‹Звонки/СМС›
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ru-01.gni-daed.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru-01.gni-daed.ru&fp=firefox&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&sid=a8389289e18af5f4#🇷🇺 Россия / YouTube без рекламы
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Белые списки 👇
 

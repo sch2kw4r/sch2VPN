@@ -6,6 +6,15 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Наш канал: @sch2VPN
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Поддержка/Владелец: @sch2kw4r
 
+vless://1bd98268-1a22-4cf9-804d-b8a7650b1304@gr1.panel11.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=gr1.panel11.ru&pbk=rYwYudDb69CwjAJNw5KTFqJnRwwADgDMDpjv9KESjEY&sid=f5c14a97040a38bf&fp=firefox#🇪🇺 Авто | Самый быстрый
+vless://1bd98268-1a22-4cf9-804d-b8a7650b1304@fin1.panel11.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fin1.panel11.ru&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb&fp=firefox#🇪🇺 Авто | Самый быстрый
+vless://1bd98268-1a22-4cf9-804d-b8a7650b1304@us1.panel11.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=us1.panel11.ru&pbk=MFuAxjdSnjCk_8Vi_-KGyWryFfSmm902nVhACDSIzBw&sid=d9d688fc488ae13b&fp=firefox#🇪🇺 Авто | Самый быстрый
+vless://1bd98268-1a22-4cf9-804d-b8a7650b1304@swed1.panel11.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=swed1.panel11.ru&pbk=1WWB1FGvqk-jlkuu7w3gbjWTZsC5LKoTFR6rPlcAHlo&sid=c3af02397e6dce99&fp=firefox#🇪🇺 Авто | Самый быстрый
+vless://1bd98268-1a22-4cf9-804d-b8a7650b1304@mold1.panel11.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=mold1.panel11.ru&pbk=fJwiGHzBjOmu3cW05jKdiNmRVUt3caHkRq_tk_vuKEU&sid=79c1328ea1b50765&fp=firefox#🇪🇺 Авто | Самый быстрый
+vless://1bd98268-1a22-4cf9-804d-b8a7650b1304@latv1.panel11.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=latv1.panel11.ru&pbk=D7aIddmYg_5juAzx62eYKxJiy8siAV8QcG_dO05TCQU&sid=2987b20b2bd97168&fp=firefox#🇪🇺 Авто | Самый быстрый
+vless://1bd98268-1a22-4cf9-804d-b8a7650b1304@swez1.panel11.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=swez1.panel11.ru&pbk=LCxBMcaAotdVgvL22mEIK6Q_3hHsGLBm2lw1i4X15A0&sid=517f601f5b209472&fp=firefox#🇪🇺 Авто | Самый быстрый
+
+
 vless://96e86354-c333-47b8-9bc7-271bba70df1d@5.35.34.181:443?encryption=none&security=reality&sni=music.yandex.ru&fp=chrome&pbk=rAMn0lQ0hcsZ0ZnUWwe022bU8pMXYWViV_XSpQ1NKXU&sid=48a458b7e7cb52ae&packetEncoding=xudp#🇳🇱 Нидерланды | ⚡
 
 vless://b7d1d82a-4b7d-4f74-ae7a-c18676d2f4df@uk.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=uk.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=f66c289040d589ee&fp=firefox#🇬🇧 Великобритания ⚡️

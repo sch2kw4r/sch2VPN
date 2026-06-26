@@ -39,6 +39,7 @@ vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ru-01.gni-daed.ru:443?encryption=no
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Белые списки 👇
 
 vless://f7d8a816-1d9e-45b8-9bef-f4d2a4ce541f@188.72.103.3:443?mode=packet-up&path=%2Fxhttppath&security=tls&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22path%22%3A%22%2Fxhttppath%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0.0%2C%22cMaxReuseTimes%22%3A0.0%2C%22maxConcurrency%22%3A1.0%2C%22maxConnections%22%3A0.0%7D%2C%22seqKey%22%3A%22page%22%2C%22sessionKey%22%3A%22X-Auth-Token%22%2C%22xPaddingKey%22%3A%22_dc%22%2C%22seqPlacement%22%3A%22query%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%7D&echfq=none&host=wl.mtvb.online&allowinsecure=0&type=xhttp&sni=wl.mtvb.online#🇷🇺 LTE | Все операторы
+vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@89.208.97.95:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amazon.fr&fp=firefox&pbk=OhHt4eEk9pZVzDpt37apm_7DRM0qP6_D4yJBCK0n02A&sid=5701e710c025b4b8&type=tcp#🇷🇺 LTE #2 | Обход глушилок
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❓ | Понравился наш VPN?
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❓ | Понравился наш VPN? 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❗ | Поделись нашим VPN с друзьями!
